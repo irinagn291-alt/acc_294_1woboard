@@ -1,0 +1,10 @@
+Version 1.0 is the first release of 1Woboard, a door till for volunteers running a single-screen repertory cinema or community hall.
+
+• Floor with "Place station", "Cover", "Ring", "File incident", and "Maintain"
+• Shifts with "Clock in" and "Clock out"
+• Finance with "House float" and "Export tonight CSV"
+• Bracket to "Seed bout" and "Advance" the on-deck pair
+• Door to read a comp or member code
+• Settings with "Replay onboarding", "Reset all data", and "Contact Callboard"
+
+The house stays on this device.

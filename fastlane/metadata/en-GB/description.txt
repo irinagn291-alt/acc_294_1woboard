@@ -1,0 +1,20 @@
+1Woboard is a door till for volunteers who run a single-screen repertory cinema or community hall. One person keeps the floor on screen: they place a station, clock a volunteer in, cover that station, ring walk-in admissions onto tonight's till, and advance the pair that is on deck.
+
+• Door till for walk-in admissions on a covered station
+• Floor plan with station lamps, "Open" / "Covered", and Health
+• Place the first station
+• Cover, then ring
+• Ring on an Open station writes an "Open ring" / "Gap"
+• Tonight ticket strip
+• Float tonight / House float
+• Volunteer roster, "Clock in", "Clock out"
+• House phases "Dark", "OnShift", "Live"
+• File incident on a drawing slate (lowers Health)
+• Maintain a station when Health is under 60
+• Bracket: seat a bout, on-deck pair, "Advance"
+• Door code: QR or typed digits for a complementary or member code
+• Finance for tonight's till and "Export tonight CSV"
+• Replay onboarding, reset the house, Contact Callboard
+• House on this device
+
+The house stays on this device.
