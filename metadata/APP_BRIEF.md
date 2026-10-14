@@ -1,4 +1,4 @@
-<!-- gf-brief source=4fce3c91f87c03fdee7501ce44d7915979e1e70f17a2c139da782c174cd2f418 written=2026-10-14T17:03:54+03:00 -->
+<!-- gf-brief source=4fce3c91f87c03fdee7501ce44d7915979e1e70f17a2c139da782c174cd2f418 written=2026-10-14T17:07:21+03:00 -->
 # 1Woboard
 
 ## What it is
